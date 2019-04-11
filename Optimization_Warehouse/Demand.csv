@@ -1,0 +1,122 @@
+DemandID,Name,Address,longitude,latitude,Demand,SupplyID
+1,Memorial Drive / Deerfoot Trail SE,Memorial Drive / Deerfoot Trail SE,-114.0181691,51.04785215,25,19
+2,5 Avenue / 1 Street SE,5 Avenue / 1 Street SE,-114.0603862,51.04833141,25,28
+3,6 Avenue / 1 Street SE,6 Avenue / 1 Street SE,-114.0606748,51.04723757,25,47
+4,Crowchild Trail / Shaganappi Trail NW,Crowchild Trail / Shaganappi Trail NW,-114.149379,51.09884942,25,28
+5,Glenmore Trail / 14 Street SW (West),Glenmore Trail / 14 Street SW (West),-114.0949781,50.99380954,25,21
+6,Heritage Drive / 14 Street SW,Heritage Drive / 14 Street SW,-114.094847,50.97952967,25,13
+7,John Laurie Blvd / 14 Street NW,John Laurie Blvd / 14 Street NW,-114.0947697,51.08971766,25,1
+8,McKnight Blvd / 52 Street NE,McKnight Blvd / 52 Street NE,-113.9582103,51.09588368,25,45
+9,Southland Drive / Deerfoot Trail SE,Southland Drive / Deerfoot Trail SE,-114.0344425,50.96710992,25,19
+10,Southland Drive / Macleod Trail S,Southland Drive / Macleod Trail S,-114.0713525,50.96514132,25,2
+11,16 Avenue / 14 Street NW,16 Avenue / 14 Street NW,-114.0939902,51.06697645,25,18
+12,42 Avenue / Macleod Trail S,42 Avenue / Macleod Trail S,-114.0643126,51.01590993,25,31
+13,McKnight Blvd / Metis Trail NE,McKnight Blvd / Metis Trail NE,-113.9807844,51.09570016,25,19
+14,Memorial Drive / 52 Street E,Memorial Drive / 52 Street E,-113.9558182,51.05325298,25,1
+15,8 Avenue / 12 Street SE,8 Avenue / 12 Street SE,-114.0335844,51.04203598,25,21
+16,Anderson Road / Macleod Trail S,Anderson Road / Macleod Trail S,-114.0707168,50.95057929,25,43
+17,5 Avenue btw 1 Street & 2 Street SW,5 Avenue btw 1 Street & 2 Street SW,-114.06642,51.04848537,25,19
+18,John Laurie Blvd / Shaganappi Trail NW,John Laurie Blvd / Shaganappi Trail NW,-114.1398453,51.10884332,25,35
+19,Kensington Road / Crowchild Trail NW,Kensington Road / Crowchild Trail NW,-114.1180882,51.05248736,25,14
+20,McKnight Boulevard / Barlow Trail NE,McKnight Boulevard / Barlow Trail NE,-114.0018281,51.09279213,25,26
+21,Riverfront Avenue / 1 Street SE,Riverfront Avenue / 1 Street SE,-114.0600141,51.05113127,25,6
+22,Samis Road / Centre Street North,Samis Road / Centre Street North,-114.0624739,51.05498343,25,44
+23,Southland Drive / Blackfoot Trail SE,Southland Drive / Blackfoot Trail SE,-114.0387603,50.96584162,25,17
+24,11 Avenue / Macleod Trail S,11 Avenue / Macleod Trail S,-114.0583524,51.04224801,25,44
+25,8 Avenue / 11 Street SW,8 Avenue / 11 Street SW,-114.0886408,51.04625799,25,47
+26,58 Avenue / Blackfoot Trail SE,58 Avenue / Blackfoot Trail SE,-114.0490102,51.00130202,25,16
+27,Heritage Drive / Blackfoot Trail SE,Heritage Drive / Blackfoot Trail SE,-114.0504938,50.98091787,25,19
+28,16 Avenue / 36 Street NE,16 Avenue / 36 Street NE,-113.9814146,51.06694498,25,16
+29,25 Avenue / Spiller Road SE,25 Avenue / Spiller Road SE,-114.0501597,51.02975948,25,27
+30,Bow Trail / Pumphouse Road SW,Bow Trail / Pumphouse Road SW,-114.1036354,51.04704268,25,20
+31,McKnight Blvd / Stoney Trail NE,McKnight Blvd / Stoney Trail NE,-113.915867,51.09675876,25,37
+32,Blackfoot Trail / 19 Street SE,Blackfoot Trail / 19 Street SE,-114.0179088,51.03764902,25,33
+33,16 Avenue / Centre Street N,16 Avenue / Centre Street N,-114.0626323,51.06679951,25,3
+34,47 Avenue / Deerfoot Trail SE,47 Avenue / Deerfoot Trail SE,-114.0084668,51.01092819,25,36
+35,5 Avenue / 3 Street SE,5 Avenue / 3 Street SE,-114.0554787,51.04817598,25,36
+36,Country Hills Blvd / Royal Birch Blvd NW,Country Hills Blvd / Royal Birch Blvd NW,-114.2130566,51.14985314,25,40
+37,Memorial Drive / Edmonton Trail NE,Memorial Drive / Edmonton Trail NE,-114.0501357,51.05080178,25,45
+38,149 Avenue / Macleod Trail S,149 Avenue / Macleod Trail S,-114.0703057,50.91888662,25,16
+39,4 Avenue / 10 Street SW,4 Avenue / 10 Street SW,-114.0868196,51.04917679,25,26
+40,Bow Trail / 6 Avenue SW,Bow Trail / 6 Avenue SW,-114.0913813,51.04749304,25,47
+41,Memorial Drive / 9 Street NW,Memorial Drive / 9 Street NW,-114.0811808,51.0536259,25,46
+42,16 Avenue / 19 Street NE,16 Avenue / 19 Street NE,-114.0140245,51.06703731,25,25
+43,16 Avenue / Stoney Trail NW,16 Avenue / Stoney Trail NW,-114.2317849,51.08865135,25,20
+44,Anderson Road / 14 Street SW,Anderson Road / 14 Street SW,-114.0944192,50.95074099,25,14
+45,Country Hills Blvd / 36 Street NE,Country Hills Blvd / 36 Street NE,-113.9817289,51.15430159,25,29
+46,Highfield Road / Blackfoot Trail SE,Highfield Road / Blackfoot Trail SE,-114.047906,51.02106724,25,21
+47,Anderson Road / 24 Street SW,Anderson Road / 24 Street SW,-114.1175273,50.9507798,25,24
+48,194 Avenue / Macleod Trail S,194 Avenue / Macleod Trail S,-114.0440631,50.87564418,25,15
+49,Country Hills Blvd / Deerfoot Trail NE,Country Hills Blvd / Deerfoot Trail NE,-114.020269,51.15438172,25,10
+50,Southland Drive / 14 Street SW,Southland Drive / 14 Street SW,-114.0953543,50.96157194,25,8
+51,50 Avenue / Barlow Trail SE,50 Avenue / Barlow Trail SE,-114.0018449,51.00862341,25,15
+52,Stoney Trail / Sarcee Trail NW,Stoney Trail / Sarcee Trail NW,-114.164821,51.15308253,25,9
+53,Beddington Trail / Country Hills Blvd NW,Beddington Trail / Country Hills Blvd NW,-114.0922392,51.14389223,25,23
+54,Stoney Trail / Beddington Trail NW,Stoney Trail / Beddington Trail NW,-114.1149257,51.15657513,25,23
+55,Bannister Road / Macleod Trail S,Bannister Road / Macleod Trail S,-114.0716512,50.92515466,25,22
+56,Stoney Trail / Deerfoot Trail NE,Stoney Trail / Deerfoot Trail NE,-114.0013849,51.17520856,25,35
+57,Bow Trail / Sarcee Trail SW,Bow Trail / Sarcee Trail SW,-114.1639913,51.05274256,25,17
+58,32 Avenue / 52 Street NE,32 Avenue / 52 Street NE,-113.9582969,51.08157783,25,34
+59,Memorial Drive / 10A Street NW,Memorial Drive / 10A Street NW,-114.0905363,51.05095097,25,7
+60,Memorial Drive / 14 Street NW,Memorial Drive / 14 Street NW,-114.0931995,51.04963898,25,18
+61,17 Avenue / 28 Street SE,17 Avenue / 28 Street SE,-113.9930839,51.03774773,25,14
+62,Macleod Trail S / 162 Avenue SE (East intersection),Macleod Trail S / 162 Avenue SE (East intersection),-114.0606044,50.90527949,25,40
+63,Glenmore Trail / Macleod Trail S (West),Glenmore Trail / Macleod Trail S (West),-114.071551,50.99391749,25,18
+64,162 Avenue / Shawville Blvd,162 Avenue / Shawville Blvd,-114.0659867,50.90433137,25,35
+65,22 Avenue / Deerfoot Trail SE,22 Avenue / Deerfoot Trail SE,-113.9947155,51.03377488,25,2
+66,Glenmore Trail / 14 Street SW (East),Glenmore Trail / 14 Street SW (East),-114.0946551,50.99394933,25,17
+67,Glenmore Trail / 1A Street SW,Glenmore Trail / 1A Street SW,-114.0673324,50.99436023,25,29
+68,Glenmore Trail / Deerfoot Trail SE,Glenmore Trail / Deerfoot Trail SE,-114.035226,50.99421556,25,47
+69,Glenmore Trail / Macleod Trail S,Glenmore Trail / Macleod Trail S,-114.0715855,50.99398902,25,13
+70,Heritage Drive / Macleod Trail S,Heritage Drive / Macleod Trail S,-114.0717745,50.97938674,25,26
+71,Macleod Trail S / 162 Avenue SE (West intersection),Macleod Trail S / 162 Avenue SE (West intersection),-114.0637026,50.90457456,25,37
+72,Memorial Drive / 10 Street NW,Memorial Drive / 10 Street NW,-114.0858242,51.05194241,25,24
+73,16 Avenue / Edmonton Trail NE,16 Avenue / Edmonton Trail NE,-114.0562102,51.06682111,25,45
+74,17 Avenue / Deerfoot Trail SE,17 Avenue / Deerfoot Trail SE,-114.0050859,51.03680264,25,16
+75,34 Avenue / Deerfoot Trail SE,34 Avenue / Deerfoot Trail SE,-113.9998411,51.02328521,25,13
+76,Peigan Trail / Barlow Trail SE,Peigan Trail / Barlow Trail SE,-114.0026887,51.01497252,25,2
+77,Glenmore Trail / Elbow Drive SW (East),Glenmore Trail / Elbow Drive SW (East),-114.0842358,50.99391613,25,17
+78,Glenmore Trail / Elbow Drive SW (West),Glenmore Trail / Elbow Drive SW (West),-114.0839877,50.99315406,25,40
+79,16 Avenue / Stoney Trail NE,16 Avenue / Stoney Trail NE,-113.9204069,51.06768555,25,32
+80,4 Avenue / Macleod Trail S,4 Avenue / Macleod Trail S,-114.057837,51.0491958,25,37
+81,5 Avenue / 7 Street SW,5 Avenue / 7 Street SW,-114.0786008,51.04881996,25,20
+82,50 Avenue / 52 Street SE,50 Avenue / 52 Street SE,-113.9584234,51.00887511,25,6
+83,114 Avenue / Barlow Trail SE,114 Avenue / Barlow Trail SE,-113.981644,50.95052536,25,39
+84,12 Avenue / 5 Street SW,12 Avenue / 5 Street SW,-114.0741758,51.04175674,25,24
+85,12 Avenue / Olympic Way SE,12 Avenue / Olympic Way SE,-114.0534925,51.0411473,25,33
+86,130 Avenue / Deerfoot Trail SE,130 Avenue / Deerfoot Trail SE,-113.9750552,50.93196127,25,10
+87,Bow Trail / Crowchild Trail SW,Bow Trail / Crowchild Trail SW,-114.1127754,51.04360095,25,28
+88,Crowchild Trail / Sarcee Trail NW,Crowchild Trail / Sarcee Trail NW,-114.1782042,51.11125512,25,35
+89,Glenmore Trail / Blackfoot Trail SE,Glenmore Trail / Blackfoot Trail SE,-114.0525544,50.99391337,25,4
+90,Stoney Trail / Deerfoot Trail SE,Stoney Trail / Deerfoot Trail SE,-113.9766063,50.90072571,25,31
+91,4 Avenue / 9 Street SW,4 Avenue / 9 Street SW,-114.0835215,51.04996013,25,19
+92,16 Avenue / 52 Street NE,16 Avenue / 52 Street NE,-113.9584279,51.06671207,25,24
+93,16 Avenue / 10 Street NW,16 Avenue / 10 Street NW,-114.0849216,51.06680684,25,46
+94,9 Avenue / 3 Street SE,9 Avenue / 3 Street SE,-114.0556637,51.04439014,25,29
+95,Bow Trail / 14 Street SW,Bow Trail / 14 Street SW,-114.094804,51.04706627,25,3
+96,Bow Trail / 33 Street SW,Bow Trail / 33 Street SW,-114.1355522,51.04138443,25,32
+97,Crowchild Trail / Nosehill Drive NW,Crowchild Trail / Nosehill Drive NW,-114.2024515,51.12006488,25,41
+98,114 Avenue / 52 Street SE,114 Avenue / 52 Street SE,-113.958331,50.95043954,25,25
+99,130 Avenue / 52 Street SE,130 Avenue / 52 Street SE,-113.9582911,50.93142257,25,33
+100,33 Avenue / Crowchild Trail SW,33 Avenue / Crowchild Trail SW,-114.1173688,51.02407365,25,40
+101,Glenmore Trail / 52 Street SE,Glenmore Trail / 52 Street SE,-113.9587798,50.97980237,25,8
+102,210 Avenue / Macleod Trail SE,210 Avenue / Macleod Trail SE,-114.0379767,50.86615764,25,28
+103,Glenmore Trail / Crowchild Trail SW,Glenmore Trail / Crowchild Trail SW,-114.1180484,51.00003787,25,2
+104,16 Avenue / Home Rd NW,16 Avenue / Home Rd NW,-114.1643274,51.07261241,25,1
+105,Memorial Drive / 12 Street NE,Memorial Drive / 12 Street NE,-114.0323668,51.04824607,25,10
+106,64 Avenue / Deerfoot Trail NE,64 Avenue / Deerfoot Trail NE,-114.0480321,51.11050635,25,44
+107,McKnight Blvd / Deerfoot Trail NE,McKnight Blvd / Deerfoot Trail NE,-114.0404543,51.09604821,25,40
+108,Glenmore Trail / Barlow Trail SE,Glenmore Trail / Barlow Trail SE,-113.9814947,50.97944553,25,6
+109,Sarcee Trail / 16 Avenue NW,Sarcee Trail / 16 Avenue NW,-114.1891603,51.08085249,25,43
+110,16 Avenue / Barlow Trail NE,16 Avenue / Barlow Trail NE,-114.0020863,51.06677285,25,11
+111,16 Avenue / Deerfoot Trail NE,16 Avenue / Deerfoot Trail NE,-114.0281359,51.06728603,25,29
+112,24 Avenue / Crowchild Trail NW,24 Avenue / Crowchild Trail NW,-114.1182195,51.07418937,25,7
+113,9 Avenue / 5 Street SW,9 Avenue / 5 Street SW,-114.0738336,51.04488494,25,38
+114,Canyon Meadows Dr / Macleod Trail SE,Canyon Meadows Dr / Macleod Trail SE,-114.0694188,50.93187048,25,8
+115,Lake Fraser Gate / Macleod Trail SE,Lake Fraser Gate / Macleod Trail SE,-114.0694135,50.93942102,25,35
+116,25 Avenue / Macleod Trail SE,25 Avenue / Macleod Trail SE,-114.0598396,51.03047321,25,37
+117,5 Avenue / 5 Street SW,5 Avenue / 5 Street SW,-114.0736443,51.04867675,25,8
+118,58 Avenue / Macleod Trail S,58 Avenue / Macleod Trail S,-114.071734,51.00145668,25,43
+119,McKnight Blvd / Centre St N,McKnight Blvd / Centre St N,-114.0623634,51.09597457,25,16
+120,17 Avenue / 52 Street SE,17 Avenue / 52 Street SE,-113.9582468,51.03780978,25,13
+121,32 Avenue / Deerfoot Trail NE,32 Avenue / Deerfoot Trail NE,-114.035269,51.08161365,25,26
