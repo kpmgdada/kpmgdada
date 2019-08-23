@@ -7392,3 +7392,943 @@ e[Child 22052, Chrome_ChildTrror: resource:///actors/AboutReaderChild.jsm, line 
 
 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
 
+1565635018625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alanmak\\AppData\\Local\\Temp\\1\\rust_mozprofile.DkpP4kWDgWOH"
+1565635022017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565635022017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565635022018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565635022018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565635034775	Marionette	INFO	Listening on port 59610
+1565635034940	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565632556569%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Child 31356, Chrome_ChildThread] WARNING: pipe error: 109:[Child 9056, Chrome_ChildThread] WARNING:  pipe error: 109: file z:/task_1563383129/bufiild/lsrc/ipc/chromium/srce/ chrome/common/ipc_channel_win.cc, line 341
+z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 31356, 1565635298562	Marionette	INFO	Stopped listening on port 59610
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1565635305228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alanmak\\AppData\\Local\\Temp\\1\\rust_mozprofile.c4L1q8dkTK9P"
+1565635309984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565635309984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565635309985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565635309985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565635327785	Marionette	INFO	Listening on port 59990
+1565635327916	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 33144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Child 32652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 32652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin[Child 6340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil1565635367471	Marionette	INFO	Stopped listening on port 59990
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1565635447560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alanmak\\AppData\\Local\\Temp\\1\\rust_mozprofile.4b1y7F8E11no"
+1565635451512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565635451512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565635451513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565635451513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565635462815	Marionette	INFO	Listening on port 60380
+1565635462846	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565632556569%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn1.child1/context18' can't be sent as the connection is closed."
+JavaScript error: https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyC6Ab0FcmWAe0YHQMWu-eWQB_dzufXC_Zw&sensor=false, line 73: Error: Could not load "util".
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn2.child1/context18' can't be sent as the connection is closed."
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.27, line 93: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The operation was abortJavaScript warning: https://frannetpfa.com/pfa/assets/js/libs/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 22508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome[/Cchommon/ipc_channel_win.cc, line 341
+ild 30212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 5384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 28092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C1565638497974	Marionette	INFO	Stopped listening on port 59292
+[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel:[Parent 16496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565632556569%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1449569620447471614/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1449569620447471614/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1449569620447471614/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1449569620447471614/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1449569620447471614/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1449569620447471614/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1449569620447471614/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1449569620447471614/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1449569620447471614/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1449569620447471614/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1449569620447471614/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: https://www.youtube.com/yts/jsbin/player_ias-vflOQSPfo/en_US/base.js, line 1035: NS_ERROR_FAILURE: 
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1251,987)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1251,986)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1251, 986
+Assertion failure: [unhandlable oom] Failed not allocate new chunk during GC, at z:/task_1563383129/build/src/js/src/vm/JSContext.cpp:1476
+out of memory: 0x0000000000020000 bytes requested
+1565651772130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alanmak\\AppData\\Local\\Temp\\1\\rust_mozprofile.YbmWAT8UPfJg"
+1565651774762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565651774762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565651774762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565651774762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565651785798	Marionette	INFO	Listening on port 63908
+[Child 26140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch1565651786393	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: GFX: D3D11 detected a device reset in Present
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Could not create swap chain: 0x887a0005
+[GFX1-]: [D3D11] create vert[GFX1]: [D2D1] Failed to create egxfx factory's D 2D1 device, code: 0x887a0005
+buffer failed: 0x887a0005
+[GFX1-]: [D3D11] failed to get compositor device attachments
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_VERTEX_BUFFER
+[GFX1-]: Compositors might be mixed (3,1)
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+[GFX1-]: Failed buffer for 0, 0, 1583, 2432
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000000428 bytes requested
+[Parent 9324, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 458
+[Parent 9324, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 458
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0074,name=PBrowser::Msg_StopIMEStateManagement) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 9324, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 31508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3[Parent 9324, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 33320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 31565654109633	Marionette	INFO	Stopped listening on port 63908
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1565658984385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alanmak\\AppData\\Local\\Temp\\1\\rust_mozprofile.1ghxZV7dSOhI"
+1565658986803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565658986804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565658986804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565658986804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565658995525	Marionette	INFO	Listening on port 59938
+[Child 14604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C1565658995985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: GFX: D3D11 detected a device reset in Present
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1604, 1012[
+GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0[xGFX1-]: GFX: D3D11 detected a device reset in Resiz8eBuffers0
+070[0GFX1-]: Could not resiz0e e
+the swapchain (0x644,0x3f4)
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+[GFX1-]: Failed buffer for 0, 0, 1604, 1012
+[GFX1-]: GFX: D3D11 detected a device reset in ResizeBuffers
+[GFX1-]: Could not resize the swapchain (0x644,0x3f4)
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1152)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1152
+Assertion failure: [unhandlable oom] Failed not allocate new chunk during GC, at z:/task_1563383129/build/src/js/src/vm/JSContext.cpp:1476
+[Parent 26132, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 458
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0074,name=PBrowser::Msg_StopIMEStateManagement) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 26132, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Child 31708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi1565659933884	Marionette	INFO	Stopped listening on port 59938
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1565660718222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alanmak\\AppData\\Local\\Temp\\1\\rust_mozprofile.FI6LgtGcZOOS"
+1565660720824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565660720825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565660720825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565660720825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565660730520	Marionette	INFO	Listening on port 61862
+1565660730921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&key=AIzaSyC6Ab0FcmWAe0YHQMWu-eWQB_dzufXC_Zw, line 79: Error: Could not load "util".
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1719)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1719
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1719)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1719
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,1719)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 1719
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0074,name=PBrowser::Msg_StopIMEStateManagement) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Child 7664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C1565661601603	Marionette	INFO	Stopped listening on port 61862
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1565668719648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alanmak\\AppData\\Local\\Temp\\1\\rust_mozprofile.uC2Jew21ano5"
+1565668722251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565668722251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565668722251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565668722251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565668731069	Marionette	INFO	Listening on port 64513
+1565668731224	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2074)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2074)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2074
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2074)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2074
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2074)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2074
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1583,2074)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1583, 2074
+Assertion failure: [unhandlable oom] Failed not allocate new chunk during GC, at z:/task_1563383129/build/src/js/src/vm/JSContext.cpp:1476
+[Parent 30028, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 458
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0074,name=PBrowser::Msg_StopIMEStateManagement) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Child 7112, Chrome_ChildThread] WARNING: pipe 1565669629829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alanmak\\AppData\\Local\\Temp\\1\\rust_mozprofile.IyNmrTyUDk2p"
+1565669632108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565669632108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565669632108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565669632108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 21668, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1565669640346	Marionette	INFO	Listening on port 49462
+1565669640816	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 815))
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: UnknownError
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: UnknownError
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/3364791972517960207/edge_includes/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/3364791972517960207/edge_includes/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 237: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+out of memory: 0x0000000000020000 bytes requested
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0074,name=PBrowser::Msg_StopIMEStateManagement) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 21668, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26392, C[Parent 21668, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch1565701268868	Marionette	INFO	Stopped listening on port 49462
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1565701712082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alanmak\\AppData\\Local\\Temp\\1\\rust_mozprofile.WT5TjmiuAiTY"
+1565701715118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565701715118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565701715119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565701715119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565701724335	Marionette	INFO	Listening on port 59166
+[Child 19340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C1565701724813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565701773956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alanmak\\AppData\\Local\\Temp\\1\\rust_mozprofile.9zHa9FaA9TRP"
+1565701776931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565701776931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565701776931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565701776932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565701787405	Marionette	INFO	Listening on port 59370
+[Child 9112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 91565701787496	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+[Parent 2396, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2396, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[Child 33104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/tas
+k_1563383129/[build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 2396, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 25780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[1565891200256	Marionette	INFO	Stopped listening on port 59370
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
